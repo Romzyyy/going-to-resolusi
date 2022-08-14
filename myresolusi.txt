@@ -4,3 +4,6 @@ my resolusi
 - css framework
 - javascript
 - php
+- phyton
+- java
+- 
