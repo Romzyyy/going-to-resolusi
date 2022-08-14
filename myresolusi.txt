@@ -1,0 +1,6 @@
+my resolusi
+- html
+- css
+- css framework
+- javascript
+- php
