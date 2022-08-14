@@ -6,4 +6,5 @@ my resolusi
 - php
 - phyton
 - java
-- 
+- c++
+- c
