@@ -1,4 +1,5 @@
 rencana conten
 
-- fulstack developer
+- fulstack developer 
 - frelance
+- enginer
